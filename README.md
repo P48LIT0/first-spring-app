@@ -2,7 +2,7 @@
 
 This is web app made with java spring framework. This application consists of few views, forms and validation of informations introduced from user.
 
-### Dependencies
+### Software
 
 * Tomcat 9 connected to Eclipse
 * Windows 10
