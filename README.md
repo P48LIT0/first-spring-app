@@ -12,6 +12,6 @@ This is web app made with java spring framework. This application consists of fe
 
 P48LIT0
 
-## Acknowledgments
+## Useful links
 
 * [luv2code](https://www.youtube.com/user/luv2codetv/videos)
